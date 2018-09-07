@@ -1,0 +1,1 @@
+# localResizeIMG-compatible
