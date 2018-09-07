@@ -1,4 +1,5 @@
 # localResizeIMG-compatible
+```
 Usage:
     $("input[type=file]").imageSelector({
        container: 'container', //图片存放的容器
@@ -8,3 +9,4 @@ Usage:
        url: 'upload.php',// 图片上传url
        filedName:''//后端接收的字段名,默认为file
     });
+```
