@@ -1,4 +1,5 @@
 # localResizeIMG-compatible
+demo在example目录下
 ## Usage:
 
 * require files:
