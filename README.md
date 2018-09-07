@@ -1,6 +1,15 @@
 # localResizeIMG-compatible
+## Usage:
+
+* require files:
 ```
-Usage:
+    <script type="text/javascript" src="../dist/jquery.min.js"></script>
+    <script type="text/javascript" src="../dist/lrz.bundle.js"></script>
+    <!--main logic-->
+    <script type="text/javascript" src="./imageSelector.jquery.js"></script>
+```
+* code:
+```javascript
     $("input[type=file]").imageSelector({
        container: 'container', //图片存放的容器
        width: '',// 图片最大宽度
